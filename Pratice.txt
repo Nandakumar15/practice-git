@@ -6,4 +6,5 @@ Some Programming Languages
 5) Swift
 6) Ruby
 7) Php
+8) Perl
 
