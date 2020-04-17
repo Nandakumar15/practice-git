@@ -8,5 +8,4 @@ Some Programming Languages
 7) Php
 8) Perl
 9) Java Script
-10) Go
 
